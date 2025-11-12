@@ -1,0 +1,5 @@
+{
+  "name": "Hipervisor Unificador de Fotos",
+  "description": "Faça o upload da foto de uma pessoa e de outra imagem para que a IA reimagine uma fusão entre elas. O aplicativo utiliza o Gemini para gerar a nova imagem com base nas imagens fornecidas pelo usuário.",
+  "requestFramePermissions": []
+}
